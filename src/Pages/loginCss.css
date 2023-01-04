@@ -1,0 +1,17 @@
+input,h1,p{
+    display: block;
+    margin: 15px;
+    padding: 7px 50px;
+    box-sizing: border-box;
+    width: 90%;
+}
+#loginForm{
+    border: 1px solid rgb(146, 146, 214);
+    width: 30vw;
+    margin: auto;
+    height: 50vh;
+}
+#btn{
+    background-color: rgb(14, 209, 216);
+    color: black;
+}
